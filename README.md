@@ -6,7 +6,8 @@ A trendy blog-style website displaying my favourite Adidas shoes.
 MOBILE view:
 
 ![top page](Screenshots/shoe1.PNG)
-![bottom page](Screenshots/shoe2.PNG)
+![mid page](Screenshots/shoe2.PNG)
+![bottom page](Screenshots/shoe5.PNG)
 
 DESKTOP view:
 
