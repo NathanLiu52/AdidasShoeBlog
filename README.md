@@ -1,6 +1,8 @@
 # AdidasShoeBlog
 A trendy blog-style website displaying my favourite Adidas shoes.
 
+FULL DEMO AT: https://www.youtube.com/watch?v=to-7Czaphso
+
 # Screenshots
 
 MOBILE view:
